@@ -3,6 +3,8 @@
 
 Restarting the .net core console application with docker
 
+![alt text](image/docker.png)
+
 ## What is Docker ?
 
 Docker is an open source virtualization platform developed for software developers and system developers. With Docker, you can run Linux and Windows virtual containers (machines) on Linux, Windows and MacOSX. With this platform, you can easily install, test and deploy web systems.
