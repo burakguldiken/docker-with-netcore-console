@@ -1,0 +1,4 @@
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Debug\netcoreapp3.1\dockerConsole.exe
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Debug\netcoreapp3.1\dockerConsole.csprojAssemblyReference.cache
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Debug\netcoreapp3.1\dockerConsole.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Debug\netcoreapp3.1\dockerConsole.AssemblyInfo.cs

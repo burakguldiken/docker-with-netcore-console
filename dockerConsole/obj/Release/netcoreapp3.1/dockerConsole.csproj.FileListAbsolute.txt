@@ -1,0 +1,11 @@
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.exe
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.deps.json
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.runtimeconfig.json
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.runtimeconfig.dev.json
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.dll
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\bin\Release\netcoreapp3.1\dockerConsole.pdb
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Release\netcoreapp3.1\dockerConsole.csprojAssemblyReference.cache
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Release\netcoreapp3.1\dockerConsole.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Release\netcoreapp3.1\dockerConsole.AssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Release\netcoreapp3.1\dockerConsole.dll
+C:\Users\Cloudberry\source\repos\dockerConsole\dockerConsole\obj\Release\netcoreapp3.1\dockerConsole.pdb
