@@ -103,3 +103,5 @@ The image is uploaded to the docker hub
 > COPY : Copies the files in our own directory to the working directory
 
 > ENTRYPOINT :It refers to the path of commands to be executed.
+
+![alt text](image/result.png)
